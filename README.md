@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning nodes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Good morning
+- Не знаю что и написать
+, но думаю что день удался )))))
