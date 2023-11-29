@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @whallet445
+```yaml * - 👋 Hi, I’m @whallet445
 - 👀 I’m interested in nodes
 - 🌱 I’m currently learning nodes
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-05/10 Вот и прошёл очередной день. нового ничего не случилось
-  06/10 наконец то завтра выходные
-07/10 начался выходной. завтра на работу
-10/10 что то я забросил всё, заболел(
-20/10 снова пятница и снова Кураж Бамбей))) 
-30/10 вот и заканчивается октябрь. через два месяца нг! 
+- 📫 How to reach me ...* ```
+<p align="center">  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/></p>
