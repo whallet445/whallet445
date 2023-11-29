@@ -1,2 +1,1 @@
-<p align="center">  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/></p>
-```yaml * My name is WHALLET * ```
+![Snake animation]( https://github.com/whallet445/whallet445/blob/output/github-contribution-grid-snake.svg )
