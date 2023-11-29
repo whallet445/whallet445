@@ -9,12 +9,11 @@
     <li>I try to make it clear to everyone, but so far even I don't understand anything))</li>
     <li>Focusing on learning Python and JavaScript right now.</li>
   </ul>
+      <img src="https://img.shields.io/twitter/follow/whallet5?label=Twitter&logo=twhttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whallet445&theme=radical&hide_border=trueitter&style=for-the-badge&color=blue" alt="Twitter Followers"/>
 </div>
 <div id="stats">
   <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=whallet445&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whallet445&theme=radical&hide_border=true" alt="Github Stats Graph"/>
-    <img src="https://img.shields.io/twitter/follow/whallet5?label=Twitter&logo=twhttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whallet445&theme=radical&hide_border=trueitter&style=for-the-badge&color=blue" alt="Twitter Followers"/>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
