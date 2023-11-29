@@ -14,6 +14,8 @@
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=whallet445&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whallet445&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  [![Twitter Followers](https://img.shields.io/twitter/follow/whallet5?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+  [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whallet445&theme=radical&hide_border=true)
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
