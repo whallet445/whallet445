@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <h1>Hello there, I'm Whallet445</h1>
+  <h1>Hello there, I'm Whallet445 and here is my citadel</h1>
 </div>
 <div id="bio">
   <h2>About Me</h2>
   <ul>
-    <li>My slogan is "It works — don't touch" ⚙</li>
+    <li>"It works — don't touch" ⚙</li>
     <li>Developer of programs incomprehensible to anyone. </li>    
     <li>I try to make it clear to everyone, but so far even I don't understand anything))</li>
     <li>Focusing on learning Python and JavaScript right now.</li>
