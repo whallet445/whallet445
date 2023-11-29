@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Whallet445 and here is my citadel</h1>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <div id="bio">
   <h2>About Me</h2>
   <ul>
