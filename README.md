@@ -9,7 +9,7 @@
     <li>I try to make it clear to everyone, but so far even I don't understand anything))</li>
     <li>Focusing on learning Python and JavaScript right now.</li>
   </ul>
-      <img src="https://img.shields.io/twitter/follow/whallet445?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Twitter Followers"/>
+      <img src="https://img.shields.io/twitter/follow/whallet5?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Twitter Followers"/>
 </div>
 <div id="stats">
   <h2>Stats</h2>
