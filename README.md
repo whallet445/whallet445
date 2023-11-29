@@ -1,1 +1,1 @@
-![Snake animation]( https://github.com/whallet445/whallet445/blob/output/github-contribution-grid-snake.svg )
+<p align="center">  <img src="https://capsule-render.vercel.app/api?text=My name is WHALLET!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/></p>
