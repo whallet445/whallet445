@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://i.postimg.cc/KYqfdv3s/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif" width="500"/>
+  <h1>Hello there, I'm Whallet445 and here is my Citadel</h1>
 </div>
 <div id="header" align="center">
-  <h1>Hello there, I'm Whallet445 and here is my Citadel</h1>
+  <img src="https://i.postimg.cc/KYqfdv3s/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f35373639.gif" width="500"/>
 </div>
 <div id="bio">
   <h2>About Me</h2>
