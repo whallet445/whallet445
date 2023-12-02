@@ -13,7 +13,8 @@
     <li>Focusing on learning Python and JavaScript right now.</li>
   </ul>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/whallet5?style=social)](https://twitter.com/intent/follow?screen_name=whallet5) 
+ [![Twitter Follow](https://img.shields.io/twitter/follow/whallet5?style=social)](https://twitter.com/intent/follow?screen_name=whallet5) 
+[![GitHub followers](https://img.shields.io/github/followers/whallet445?label=Follow&style=social)](https://github.com/whallet445) 
 </div>
 <div id="stats">
   <h2>Stats</h2>
